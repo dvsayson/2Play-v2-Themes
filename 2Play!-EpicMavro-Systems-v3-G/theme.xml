@@ -5,7 +5,7 @@ New Artwork & Updated Code by:	2Play! (S.R.)
 Original Artwork by:			Nico La Rosa (Chicuelo) 
 Original Coding by:				Nick L (c64-dev)
 Website:						www.chicuelo.com.ar
-Fonts used:						Dicapslock & Bebas Neue Bold
+Fonts used:						Airborne & Bebas Neue Bold
 
 # Thanks and Credits
 Some controllers and graphics used in this theme are created by great artists who kindly agreed to include their art within the theme.
@@ -76,7 +76,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
     <text name="shortdescription" extra="true">
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
         <fontSize>0.021</fontSize>
@@ -87,7 +87,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
     <text name="systemInfo">
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <alignment>left</alignment>
         <backgroundColor>00000000</backgroundColor>
         <forceUppercase>1</forceUppercase>
@@ -99,7 +99,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
     
     <text name="longdescription" extra="true">
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
         <fontSize>0.021</fontSize>
@@ -119,7 +119,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
 
     <helpsystem name="help">
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <fontSize>0.02</fontSize>
         <origin>1 1</origin><!--0 0-->
         <pos>0 0</pos> <!--0.0890 0.6283-->
@@ -151,17 +151,17 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <selectorHeight>0.031</selectorHeight>
         <primaryColor>585858</primaryColor>
         <secondaryColor>888888</secondaryColor>
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <alignment>left</alignment>
         <pos>0 0.0833</pos>
 	    <size>0.323 0.84</size>
-        <fontSize>0.02</fontSize>
+        <fontSize>0.025</fontSize>
         <lineSpacing>1.5</lineSpacing>
         <horizontalMargin>0.02864</horizontalMargin>
     </textlist>
     
     <text name="top_label" extra="true">
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <text>Select Game</text>
         <alignment>left</alignment>
         <color>F8F8F8</color>
@@ -172,7 +172,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
     
     <text name="nameLabel" extra="true">
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <color>ffffff</color>
@@ -183,7 +183,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
     <text name="md_description">
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
 	    <color>818181</color>
         <fontSize>0.018</fontSize>
 	    <alignment>left</alignment>
@@ -196,14 +196,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <text name="md_lbl_rating, md_lbl_genre, md_lbl_players">
         <color>F8F8F8</color>
         <forceUppercase>0</forceUppercase>
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <fontSize>0.0186</fontSize>
     </text>
 
     <text name="md_genre, md_players">
         <color>888888</color>
         <forceUppercase>0</forceUppercase>
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <fontSize>0.0186</fontSize>
     </text>
 
@@ -226,7 +226,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
         
     <text name="md_players">
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <color>888888</color>
         <fontSize>0.0186</fontSize>
         <pos>0.672 0.917</pos>
@@ -245,7 +245,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         
 <!-- Extra Text Labels. Edit text values if needed.-->
     <text name="players_lbl_2, btn_a, btn_b, btn_x" extra="true">
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <color>888888</color>
         <fontSize>0.0186</fontSize>
     </text>       
@@ -276,7 +276,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <text name="txt_descript" extra="true">
         <text>Description</text>
-        <fontPath>./_2playart/Dicapslock.otf</fontPath>
+        <fontPath>./_2playart/Airborne.ttf</fontPath>
         <alignment>left</alignment>
         <fontSize>0.0186</fontSize>
         <color>ffffff</color>
