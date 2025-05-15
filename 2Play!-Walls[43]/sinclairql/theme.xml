@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1984  ·  8/32-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Sinclair QL (Quantum Leap) PC launched as an upper-end counterpart to the ZX Spectrum. Was aimed at the serious home user, pro and exec users markets. Small to medium-sized businesses and higher educational establishments. CPU Motorola 68008 @7.5 MHz Memory 128-896KB, OS Sinclair QDOS, SuperBASIC. Release date: 12 Jan '84.</text>
+  </text>
+ </view>
+</theme>
